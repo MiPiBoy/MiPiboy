@@ -1,3 +1,4 @@
+<img src="github.com/MiPiBoy/MiPiboy/raw/refs/heads/main/LogoType.svg"/>
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
