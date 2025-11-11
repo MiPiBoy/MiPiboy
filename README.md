@@ -64,7 +64,4 @@
   <img src="https://img.shields.io/badge/Django-421C83?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </p> -->
 
-<h2>Support Me ❤️</h2>
-<a href="https://www.coffeebede.com/mipiboy">
-  <img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="150"/>
-</a>
+<img src="https://raw.githubusercontent.com/MiPiBoy/MiPiboy/refs/heads/main/Footer.png"/>
