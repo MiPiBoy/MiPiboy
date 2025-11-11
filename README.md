@@ -1,10 +1,10 @@
-<h1>
+<h1 align="center">
   <img src="Logo.png" style="width: 48.5px; height: 40px;"/>
   <img src="https://raw.githubusercontent.com/MiPiBoy/MiPiboy/refs/heads/main/LogoType.svg"/>
 </h1>
 <p>
   <h3>Pro skills & Tools:</h3>
-  <div>
+  <div align="center">
     <img src="https://skillicons.dev/icons?i=html" />
     <img src="https://skillicons.dev/icons?i=css" />
     <img src="https://skillicons.dev/icons?i=tailwind" />
@@ -22,7 +22,7 @@
     <img src="https://skillicons.dev/icons?i=git" />
     <img src="https://skillicons.dev/icons?i=github" />
     <img src="https://skillicons.dev/icons?i=ps" />
-    <div>
+  <div align="center">
     <img src="https://img.shields.io/badge/HTML5-8C00FF?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-8C00FF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
     <img src="https://img.shields.io/badge/TailwindCSS-8C00FF?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
@@ -43,7 +43,7 @@
   </div>
   </div>
   <h3>Planning to Learn:</h3>
-  <div>
+  <div align="center">
     <img src="https://skillicons.dev/icons?i=nextjs" />
     <img src="https://skillicons.dev/icons?i=docker" />
     <img src="https://skillicons.dev/icons?i=vue" />
@@ -51,7 +51,7 @@
     <img src="https://skillicons.dev/icons?i=lua" />
     <img src="https://skillicons.dev/icons?i=django" />
   </div>
-  <div>
+  <div align="center">
     <img src="https://img.shields.io/badge/Next.js-8C00FF?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
     <img src="https://img.shields.io/badge/Docker-8C00FF?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     <img src="https://img.shields.io/badge/Vue.js-8C00FF?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
