@@ -92,5 +92,13 @@
   <img src="https://img.shields.io/badge/Lua-421C83?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
   <img src="https://img.shields.io/badge/Django-421C83?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </p> -->
+<h2>Working on projects:</h2>
+
+<div>
+<a href="https://github.com/MiPiBoy/Quixie">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiPiBoy&repo=Quixie&theme=github_dark&hide_border=true&">
+</a>
+</div>
+
 <h1></h1>
 <img src="https://raw.githubusercontent.com/MiPiBoy/MiPiboy/refs/heads/main/image.png"/>
