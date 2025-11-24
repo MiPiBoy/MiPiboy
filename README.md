@@ -96,9 +96,10 @@
 <h2>Working on projects:</h2>
 
 <div>
-<a href="https://github.com/MiPiBoy/Quixie">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiPiBoy&repo=Quixie&theme=github_dark&hide_border=true&">
-</a>
+https://github.com/MiPiBoy/MiPiBoy-Planner
+</div>
+<div>
+https://github.com/MiPiBoy/Quixie
 </div>
 
 <h1></h1>
