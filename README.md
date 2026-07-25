@@ -1,106 +1,139 @@
 <h1 align="center">
-  <img src="Logo.png" style="width: 48.5px; height: 40px;"/>
+  <img src="Logo.png" width="48" height="40"/>
   <img src="https://raw.githubusercontent.com/MiPiBoy/MiPiboy/refs/heads/main/LogoType.svg"/>
 </h1>
-<p>
-  <h3>Pro skills & Tools:</h3>
-  <!--<div align="center">
+
+<p align="center">
+Frontend Developer • UI/UX Designer • Next.js Enthusiast
+</p>
+
+<p align="center">
+Building modern web experiences with a focus on performance, accessibility, animations, and beautiful UI.
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm **Morteza Aghaei (MiPiBoy)**, a Frontend Developer passionate about creating modern web applications.
+
+I enjoy building products with **Next.js**, **React**, and **TypeScript**, while paying close attention to design systems, user experience, animations, and clean code.
+
+Currently, I'm working on several personal projects that combine development, design, AI, and productivity.
+
+---
+
+## 🛠 Pro Skills & Tools
+
+<div align="center">
+	<img src="https://skillicons.dev/icons?i=nextjs" />
+    <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=html" />
     <img src="https://skillicons.dev/icons?i=css" />
-    <img src="https://skillicons.dev/icons?i=tailwind" />
     <img src="https://skillicons.dev/icons?i=js" />
     <img src="https://skillicons.dev/icons?i=ts" />
+    <img src="https://skillicons.dev/icons?i=tailwind" />
     <img src="https://skillicons.dev/icons?i=nodejs" />
-    <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=py" />
     <img src="https://skillicons.dev/icons?i=php" />
-    <img src="https://skillicons.dev/icons?i=mysql" />
-    <!-- . -->
-    <!--<img src="https://skillicons.dev/icons?i=figma" />
-    <img src="https://skillicons.dev/icons?i=postman" />
-    <img src="https://skillicons.dev/icons?i=supabase" />
     <img src="https://skillicons.dev/icons?i=git" />
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=figma" />
     <img src="https://skillicons.dev/icons?i=ps" />
-  </div>-->
-  <div align="center">
-    <img src="https://img.shields.io/badge/HTML5-8C00FF?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-8C00FF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/TailwindCSS-8C00FF?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
-    <img src="https://img.shields.io/badge/JavaScript-8C00FF?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-8C00FF?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/Node.js-8C00FF?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/React-8C00FF?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-    <img src="https://img.shields.io/badge/Python-8C00FF?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/PHP-8C00FF?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-    <img src="https://img.shields.io/badge/MySQL-8C00FF?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <!-- . -->
-    <img src="https://img.shields.io/badge/Figma-8C00FF?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-    <img src="https://img.shields.io/badge/Postman-8C00FF?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-    <img src="https://img.shields.io/badge/Supabase-8C00FF?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-    <img src="https://img.shields.io/badge/Git-8C00FF?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-8C00FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/Photoshop-8C00FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
-  </div>
-  </div>
-  <h3>Planning to Learn:</h3>
-  <!--<div align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs" />
-    <img src="https://skillicons.dev/icons?i=docker" />
-    <img src="https://skillicons.dev/icons?i=vue" />
-    <img src="https://skillicons.dev/icons?i=mongodb" />
-    <img src="https://skillicons.dev/icons?i=lua" />
-    <img src="https://skillicons.dev/icons?i=django" />
-  </div>-->
-  <div align="center">
-    <img src="https://img.shields.io/badge/Next.js-8C00FF?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/Docker-8C00FF?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Vue.js-8C00FF?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
-    <img src="https://img.shields.io/badge/MongoDB-8C00FF?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/Lua-8C00FF?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
-    <img src="https://img.shields.io/badge/Django-8C00FF?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  </div>
-</p>
-
-<!-- <h3>Pro skills & Tools:</h3>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-421C83?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-421C83?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-421C83?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-421C83?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-421C83?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Node.js-421C83?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/React-421C83?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Python-421C83?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PHP-421C83?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-421C83?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  -->
-  <!-- . -->
-  <!--
-  <img src="https://img.shields.io/badge/Figma-421C83?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Postman-421C83?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Supabase-421C83?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Git-421C83?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-421C83?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Photoshop-421C83?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
-</p>
-<h3>Planning to Learn:</h3>
-<p>
-  <img src="https://img.shields.io/badge/Next.js-421C83?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Docker-421C83?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Vue.js-421C83?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-421C83?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Lua-421C83?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
-  <img src="https://img.shields.io/badge/Django-421C83?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-</p> -->
-<h2>Working on projects:</h2>
-
-<div>
-https://github.com/MiPiBoy/MiPiBoy-Planner
-</div>
-<div>
-https://github.com/MiPiBoy/Quixie
 </div>
 
-<h1></h1>
+---
+
+## 🚧 Current Projects
+
+### 📚 MiPiBoy Blog *(Private)*
+
+🔗 https://mipiboy.ir
+
+A modern technical blog built with **Next.js**, **MDX**, and a custom design system.
+
+#### Features
+
+- Beautiful reading experience
+- AI Summary
+- Key Takeaways
+- Interactive Table of Contents
+- Reading Progress
+- Mermaid Support
+- Responsive Design
+- SEO Optimized
+
+---
+
+### 📅 MiPiBoy Planner
+
+🔗 https://github.com/MiPiBoy/MiPiBoy-Planner
+
+A productivity dashboard designed to manage daily life, tasks, habits, notes, and personal planning.
+
+#### Features
+
+- Task Management
+- Daily Planner
+- Habit Tracker
+- Notes
+- Dashboard
+- Modern UI
+- Responsive Layout
+
+---
+
+### ⚡ Quixie
+
+🔗 https://github.com/MiPiBoy/Quixie
+
+A smart AI-powered agent built for direct integration inside websites and internal products. It lets users send natural language instructions to the API without manually editing forms or profile pages.
+For example, a user can simply write something like:  
+“Add a biography about my work in front-end development and set my name to Morteza.”
+Quixie understands the request, decides what action should be taken, and sends structured output to the API so the backend can update the correct data automatically.
+Originally created inside the **MiPiBoy Planner** project, Quixie started as an internal tool for making task and profile interactions faster. Over time, it is evolving into a more general-purpose system for internal communication across all of my projects.
+
+#### Goals
+
+- Natural language input for product actions
+- AI-driven intent detection
+- Structured output for API communication
+- Direct integration with internal project workflows    
+- Supports Persian and English  
+- Built for fast, seamless user interaction
+
+---
+
+## 📈 Currently Learning
+
+- Advanced Next.js
+- Product Design
+- Motion Design
+- Performance Optimization
+- AI Integration
+- System Design
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/MiPiBoy">
+<img src="https://img.shields.io/badge/GitHub-421C83?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/morteza-aghaei-aa9857424/">
+<img src="https://img.shields.io/badge/LinkedIn-421C83?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://mipiboy.ir">
+<img src="https://img.shields.io/badge/Website-421C83?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
 <img src="https://raw.githubusercontent.com/MiPiBoy/MiPiboy/refs/heads/main/image.png"/>
+</p>
